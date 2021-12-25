@@ -78,11 +78,9 @@ class ChartingState extends MusicBeatState
 		['Alt Idle Animation', "Sets a speciied suffix after the idle animation name.\nYou can use this to trigger 'idle-alt' if you set\nValue 2 to -alt\n\nValue 1: Character to set (Dad, BF or GF)\nValue 2: New suffix (Leave it blank to disable)"],
 		['Screen Shake', "Value 1: Camera shake\nValue 2: HUD shake\n\nEvery value works as the following example: \"1, 0.05\".\nThe first number (1) is the duration.\nThe second number (0.05) is the intensity."],
 		['Change Character', "Value 1: Character to change (Dad, BF, GF)\nValue 2: New character's name"],
-		['animatedbgchange', "This puts an image on the top layer at x 0 and y 0. Will be behind the characters.
-\nMust be in mods/images\nValue 1: Name of the image AND xml file\nValue 2: the images tag"],
+		['animatedbgchange', "This puts an image on the top layer at x 0 and y 0. Will be behind the characters.\nMust be in mods/images\nValue 1: Name of the image AND xml file\nValue 2: the images tag"],
 		['BF Fade', "Smoothly sets bf's transparency value.\nValue 1: Duration (0 = Instant)\nValue 2: Target transparency value"],
-		['bgchange', "Value 1: This puts an image on the top layer at x 0 and y 0. Will be behind the characters.
-\nMust be in mods/images\nValue 1: Name of the image.\nValue 2: the sprites tag."],
+		['bgchange', "Value 1: This puts an image on the top layer at x 0 and y 0. Will be behind the characters.\nMust be in mods/images\nValue 1: Name of the image.\nValue 2: the sprites tag."],
 		['bgremove', "Gets rid of those pesky sprites.\nValue 1: the sprites tag"],
 		['Drain', "Steals health everytime its  called, useful for Illusion, Hallucination, Crusify, etc.\nTHE VALUE IS REQUIRED FOR THE EFFECT TO DO SOMETHING\nValue 1 : How much health, half health is 1."],
 		['FlipUI', "Switches the scroll from up to down or down to up"],
