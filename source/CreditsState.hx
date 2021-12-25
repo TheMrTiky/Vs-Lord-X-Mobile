@@ -50,7 +50,7 @@ class CreditsState extends MusicBeatState
 			['Kay7',		    'kay7',		    'The got idea of mod, is who make sprite and the bg, the helper and the tester of mobile.',	 'https://m.youtube.com/channel/UCT1w5Z3StJjiAQ7upxjVLYA',	'0xFF7ECC49'],
 			['Mr Tiky',		    'mrtiky',		    'Main Coder, cutscene, the helper, the friend of kay7 and the who make the voice of song.',	 'https://m.youtube.com/channel/UCfvw4vqGD-RqvXP1tkH-tFA',	'0xFF446E1A'],
                         ['Amitor',		    'amitor',		    'The friend of kay7, the composer of mod and the who make the instrumental of songs.',	 '',	'0xFFC30085'],
-			['Lologamer',		    'lologamer',		    'The tester of mod in pc and the friend of Mr Tiky',	 '',	'0xFFC30085'],
+			['1 frind of mr tiky',		    'blue',		    'The tester of mod in pc and the friend of Mr Tiky',	 '',	'0xFFC30085'],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
