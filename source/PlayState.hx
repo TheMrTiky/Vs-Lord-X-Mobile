@@ -4016,6 +4016,8 @@ class PlayState extends MusicBeatState
 									if(achievementName == 'week6_nomiss') unlock = true;
 								case 'week7':
 									if(achievementName == 'week7_nomiss') unlock = true;
+								case 'weekx':
+									if(achievementName == 'weekx_nomiss') unlock = true;
 							}
 						}
 					case 'ur_bad':
